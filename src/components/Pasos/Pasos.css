@@ -1,0 +1,17 @@
+.pasos_container {
+  width: 100%;
+  height: 80vh;
+  margin: auto;
+}
+.info_pasos_container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.info_modelos_details {
+  width: 30%;
+  padding-right: 50px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}

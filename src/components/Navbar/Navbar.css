@@ -1,0 +1,31 @@
+.navbar_container {
+  background: #000000;
+  padding: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.logo_container span {
+  color: #ffffff;
+  font-size: 70px;
+}
+.redes_container {
+  width: 15vw;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.redes_container i {
+  font-size: 30px;
+  color: #ffffff;
+}
+
+@media (max-width: 480px) {
+  .navbar_container {
+    display: flex;
+    flex-direction: column;
+  }
+  .redes_container {
+    width: 50vw;
+  }
+}

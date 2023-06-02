@@ -1,0 +1,56 @@
+.product_container {
+  width: 100%;
+  height: 65vh;
+  margin: auto;
+  /* display: flex;
+  align-items: center;
+  justify-content: center; */
+}
+.info_products_container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.info_products_container img {
+  height: 60vh;
+}
+.info_details {
+  width: 30%;
+  padding-right: 50px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+}
+.info_details_title {
+  color: #162128;
+  font-size: 25px;
+  font-weight: 700;
+  font-family: "Edu NSW ACT Foundation", cursive;
+  font-family: "Open Sans", sans-serif;
+  line-height: 35px;
+}
+.info_modelos {
+  display: flex;
+  flex-direction: column;
+  padding-top: 15px;
+}
+.info_modelos_title {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.info_modelos_icon {
+  color: #edb315;
+}
+.info_modelos_nombre {
+  margin-left: 10px;
+}
+.info_modelos_descripción {
+  margin: 5px;
+  color: #212121;
+  font-size: 15px;
+  font-family: "Edu NSW ACT Foundation", cursive;
+  font-family: "Open Sans", sans-serif;
+  line-height: 24px;
+}
