@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/moto-escuela-FGM/static/css/main.d359535a.css",
+    "main.js": "/moto-escuela-FGM/static/js/main.2d14789f.js",
+    "index.html": "/moto-escuela-FGM/index.html",
+    "main.d359535a.css.map": "/moto-escuela-FGM/static/css/main.d359535a.css.map",
+    "main.2d14789f.js.map": "/moto-escuela-FGM/static/js/main.2d14789f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d359535a.css",
+    "static/js/main.2d14789f.js"
+  ]
+}
